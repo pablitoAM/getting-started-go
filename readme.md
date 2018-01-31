@@ -11,3 +11,4 @@ Exercises of the online course: Go Fundamentals
 * interfaces.go
 * pointers.go
 * gorutines.go
+* channels.go
