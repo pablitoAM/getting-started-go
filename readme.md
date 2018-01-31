@@ -8,3 +8,6 @@ Exercises of the online course: Go Fundamentals
 * arrays.go
 * slices.go
 * maps.go
+* interfaces.go
+* pointers.go
+* gorutines.go
